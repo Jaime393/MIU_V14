@@ -1,0 +1,1 @@
+Auditar MIU_V14 y los demás repos del ecosistema buscando K_i, K_tau, Ω_F, 'latido planetario', 'conciencia', ρ(x), w_a/S_8/Σm_ν y tratamientos clínicos. En MIU_V14, sustituir la selección del bin más cercano a target=1/5.8 por detección ciega y significancia. En AR-MIU-Biotypes, destacar que los datos son simulados y prohibir uso clínico sin validación/ética independiente.
