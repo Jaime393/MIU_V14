@@ -6,9 +6,9 @@ Validado desde Android Pydroid. La Tierra respira cada 176 días.
 | Nodo | Periodo | Teórico | Error |
 |------|---------|-------|
 | Clima TMAX Bogotá | 170.9 días | 176 | 2.9% |
-| Sismos Colombia | 174.5 días | 176 | 0.9% |
-| Vegetación NDVI | 179.5 días | 176 | 2.0% |
-| Hidrología | 177.2 días | 176 | 0.7% |
+| Sismos Colombia | 178.4 días | 176 | 1.36% |
+| Vegetación NDVI | 175.6 días | 176 | 0.22% |
+| Hidrología | 174.7 días | 176 | 0.74% |
 
 **Error promedio: 0.62%** 
 
